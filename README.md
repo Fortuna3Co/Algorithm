@@ -1,1 +1,1 @@
-# Alogorithm
+# Algorithm
